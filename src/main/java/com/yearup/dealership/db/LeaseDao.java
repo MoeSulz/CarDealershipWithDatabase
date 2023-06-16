@@ -35,5 +35,4 @@ public class LeaseDao {
             throw new RuntimeException(e);
         }
     }
-    }
 }
